@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import { Component } from 'react';
 import { Dropdown, FormControl } from 'react-bootstrap';
 import product1 from "../../assets/images/Product_1.jpeg";
 import product2 from "../../assets/images/Product_2.jpeg";
@@ -8,7 +8,7 @@ import product5 from "../../assets/images/Product_5.jpeg";
 import product6 from "../../assets/images/Product_6.jpeg";
 import product7 from "../../assets/images/Product_7.jpeg";
 import product8 from "../../assets/images/Product_8.jpeg";
-import ProductJson from "../../Constants/products.json";
+import ProductJson from "../../constants/products.json";
 import "./index.css";
 
 class ProductView extends Component {

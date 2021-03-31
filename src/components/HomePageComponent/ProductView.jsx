@@ -9,7 +9,7 @@ import product6 from "../../assets/images/Product_6.jpeg";
 import product7 from "../../assets/images/Product_7.jpeg";
 import product8 from "../../assets/images/Product_8.jpeg";
 import ProductJson from "../../constants/products.json";
-import "./index.css";
+import "./ProductView.css";
 
 class ProductView extends Component {
     constructor(props) {

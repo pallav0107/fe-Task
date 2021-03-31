@@ -1,0 +1,46 @@
+.buy-button {
+    text-align: center !important;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #459bd4;
+    margin-left: 30% !important;
+}
+.ml10 {
+    margin-left: 10%;
+}
+.mt10 {
+    margin-top: 10%;
+}
+.mt5 {
+    margin-top: 5%;
+    /* position: fixed !important; */
+}
+.top-left-corner {
+    color: blue;
+    width: 60px;
+    border: 1px solid black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #8ce01c;
+}
+.bglight {
+    background-color: aliceblue !important;
+}
+.ml5 {
+    margin-left: 5px;
+}
+.mr10 {
+    margin-right: 10px;
+}
+.rightAlign {
+    /* position: absolute; */
+    right: 0;
+}
